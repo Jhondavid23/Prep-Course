@@ -1,0 +1,32 @@
+Explicación del ciclo for
+Qué es un ciclo?
+Comencemos por definir qué es un ciclo: Un ciclo es una serie de estados o fases que por las que pasa un acontecimiento
+o una validación y que suceden en mismo orden hasta llegar a un estado en le cual vuelven o no a repetirse
+Un ejemplo de un ciclo puede ser el ciclo del agua en el medio ambiente
+El agua de lluvia cae y llega hasta los rios, mares o lagunas, donde el sol se ecarga de evaporarla, y ocurre nuevamente la condensación llamada lluvia
+
+Para explicar ahora el ciclo for sabiendo el concepto de ciclo, el ciclo for opera por medio de validación, 
+ejemplo:
+        for (var i = 0; i <= 100; i++){
+            //Código a ejecutar
+            console.log(i)
+        }
+
+En este ejemplo podemos ver que for es una palabra reservada para un tipo de bucle o ciclo, 
+luego están los parentesís y dentro están las validaciones, aquí en este ejmplo queremos imprimir en pantalla
+los números desde el 1 hasta el 100, y nos apoyeamos de un bucle para que sea más facil y no tener que escribir un código 100 veces
+
+&&
+El simbolo Y es muy fácil, se coloca en medio de dos expresiones y si las dos son verdadesras
+retornará un valor booleano true, si alguna de las dos es falsa o las dos, devolderá un false
+
+||
+El símbolo O representado con ||, se sitúa también entre dos expresiones y significa que si no se cumple una expresión será la otra
+hasta que obtenga un valor true.
+
+!
+La expresión NOT representada con ! se puede compara como un diferente de 
+ejemplo if (!(true)){
+    console.log ("Es false")
+    
+}
