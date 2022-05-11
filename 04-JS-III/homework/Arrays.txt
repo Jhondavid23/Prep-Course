@@ -1,0 +1,7 @@
+Arrays 
+Los arreglos o arrays llamados en inglés, son un conjunto de datos agrupados a modo de listas normalmente usados para el almacenamiento de los datos, estos se definen usando los corchetes o braquets [ ] que define un arreglo vacío o una lista vacía, en la cual se pueden agregar distintos datos, ya sea strings, booleanos o números.
+
+Cómo realizar una array o matriz, es muy simple, solo hay que declarar la variable y establecerla en [], luego podemos agregar al contenedor (separadas por comas) tantascadenas, números o booleanos como queramos.
+Ejemplo:
+
+ matriz =[1,2,3,"Toni"]
